@@ -212,7 +212,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; 2026 Poply. Alle rechten voorbehouden.</p>
+      <p>&copy; 2026 Poply. Alle rechten voorbehouden. BE0898748847 - Filips Van Kleefstraat 8 - TORHOUT</p>
       <div class="mollie-badge">
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#9997B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
         <span>Veilige betalingen via <strong style="font-weight:900;color:#FF6A13;">mollie</strong></span>
